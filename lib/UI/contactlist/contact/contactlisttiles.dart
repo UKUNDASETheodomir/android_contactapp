@@ -41,4 +41,3 @@ class ContactListTile extends StatelessWidget {
     );
   }
 }
-
